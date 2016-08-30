@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ice Slider.CSharp", "Ice Slider.CSharp.csproj", "{47964E76-0BFE-1C0B-7A7C-38D4AC3F9285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ice Slider.CSharp.Editor", "Ice Slider.CSharp.Editor.csproj", "{7F174969-A1AB-394A-FB56-FF348F1A176C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47964E76-0BFE-1C0B-7A7C-38D4AC3F9285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47964E76-0BFE-1C0B-7A7C-38D4AC3F9285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47964E76-0BFE-1C0B-7A7C-38D4AC3F9285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47964E76-0BFE-1C0B-7A7C-38D4AC3F9285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F174969-A1AB-394A-FB56-FF348F1A176C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F174969-A1AB-394A-FB56-FF348F1A176C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F174969-A1AB-394A-FB56-FF348F1A176C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F174969-A1AB-394A-FB56-FF348F1A176C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
